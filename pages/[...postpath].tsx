@@ -1,4 +1,4 @@
-import React from 'react';
+7import React from 'react';
 import Head from 'next/head';
 import { GetServerSideProps } from 'next';
 import { GraphQLClient, gql } from 'graphql-request';
@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://featureposts.com`
+					`https://www.highrevenuegate.com/tphqscdf5a?key=375ed577962e1b6d35f1428bb77bde2d`
 				}`,
 			},
 		};
